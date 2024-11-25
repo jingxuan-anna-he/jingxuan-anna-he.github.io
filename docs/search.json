@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Anna Quarto Website",
+    "section": "",
+    "text": "tutorial post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nNov 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nNov 22, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jingxuan He",
+    "section": "",
+    "text": "About this blog\nI am a Master of Biostatistics student at the University of Toronto with a strong background in Mathematics from the University of Waterloo. My expertise lies in statistical modelling, data science, and programming in R, Python, SAS, SQL, VBA, C, and Power BI. Through internships and academic training, I have developed advanced forecasting models and applied techniques like logistic regression, survival analysis, and machine learning to support data-driven decision-making. I am passionate about using these skills to drive meaningful insights into public health."
+  }
+]

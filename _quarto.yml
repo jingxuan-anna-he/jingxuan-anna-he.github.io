@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anna Quarto Website"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Blog
+      - href: files/Resume.pdf
+        text: CV
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: Morph
+    css: styles.css
+
+editor: visual
+
+execute:
+  freeze: auto  # re-render only when source changes
